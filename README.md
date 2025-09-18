@@ -1,3 +1,4 @@
+Mateus Teni Pierro - RM555125
 # 📋 ListaTarefasPlus
 
 Aplicativo mobile desenvolvido com **React Native (Expo)** para gerenciamento de tarefas.  
@@ -21,5 +22,5 @@ Permite criar, listar e organizar atividades do dia a dia com recursos extras de
 
 1. Clone este repositório:  
    ```bash
-   git clone 
+   git clone https://github.com/Mateus07777/ListaTarefasPlus.git
    cd ListaTarefasPlus
