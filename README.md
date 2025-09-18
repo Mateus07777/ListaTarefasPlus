@@ -58,7 +58,7 @@ Siga o passo a passo abaixo para rodar o projeto no seu ambiente:
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seuusuario/ListaTarefasPlus.git
+   git clone https://github.com/Mateus07777/ListaTarefasPlus.git
    cd ListaTarefasPlus
 Instale as dependências:
 
